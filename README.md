@@ -1,5 +1,5 @@
 
-🚀 SchemaForge: Local AI JSON-Schema API Translation Harness
+🚀 UniversalForge Enterprise Workspace
 
 SchemaForge is an open-source, local software architecture studio that instantly bridges the gap between raw, conversational human requirements and production-grade engineering blocks.
 Built entirely for resource-constrained, privacy-centric environment setups, SchemaForge forces tiny, open-weight models (like llama3.2:3b or qwen2.5-coder:3b) to execute strict, deterministic Constrained Decoding Loops. Instead of simply returning plain text, it enforces strict Pydantic structures to compile complete application sources, matching container configurations, security audit profiles, and unit test suites entirely offline.
